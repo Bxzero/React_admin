@@ -1,0 +1,24 @@
+.loginHeader {
+  background-color: #fff !important;
+}
+
+.loginLayout {
+  width: 600px;
+  height: 400px;
+}
+
+.loginLayout {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+.loginForm {
+  margin: 50px;
+}
+
+.inputTitle {
+  margin: 10px;
+  text-align: left;
+}

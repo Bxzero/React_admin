@@ -1,0 +1,25 @@
+.header {
+  margin-bottom: 20px;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.color1 {
+  background-color: #744dfe;
+}
+
+.color1:hover {
+  background-color: #653cfb;
+}
+
+.radius1 {
+  margin: 0 10px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}

@@ -1,0 +1,73 @@
+{
+  "transRecord": [
+    "Object",
+    "你好",
+    "中文"
+  ],
+  "dicList": [
+    {
+      "id": 1,
+      "name": "词汇测试1",
+      "type": "金融1",
+      "attitude": "hate",
+      "syList": [
+        {
+          "name": "释义1",
+          "value": "用于工程语言中，工程用语言，书面语"
+        },
+        {
+          "name": "释义2",
+          "value": "用于工程语言中，工程用语言，书面语"
+        },
+        {
+          "name": "释义3",
+          "value": "用于工程语言中，工程用语言，书面语"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "词汇测试2",
+      "type": "金融2",
+      "attitude": "like"
+    },
+    {
+      "id": 3,
+      "name": "词汇测试3",
+      "type": "金融3",
+      "attitude": "hate"
+    }
+  ],
+  "users": [
+    {
+      "key": "1",
+      "name": "John Brown",
+      "id": "普通股",
+      "illustration": "知识库管理1211"
+    },
+    {
+      "key": "2",
+      "name": "Jim Green",
+      "id": "限制性股份",
+      "illustration": "London No. 1 Lake Park"
+    },
+    {
+      "key": "3",
+      "name": "Jim Green",
+      "id": "优先级",
+      "illustration": "平台管理"
+    },
+    {
+      "key": "4",
+      "name": "John Brown",
+      "id": "分红股",
+      "illustration": "知识库管理"
+    },
+    {
+      "key": "44",
+      "name": "44",
+      "illustration": "44",
+      "id": "44"
+    }
+  ]
+}
